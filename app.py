@@ -96,11 +96,29 @@ if _logo is not None:
 else:
     st.title("Fictitious Labs Inc.")
 
-bar = st.columns([3, 2])
-bar[0].markdown("**FL-EDMS** · Document Control")
-bar[1].markdown(
-    '<div style="text-align: right;">M. Whitfield · Quality Assurance '
-    "· <b>PROD</b></div>",
+st.markdown(
+    """
+<div style="display:flex; justify-content:space-between; align-items:center;
+            gap:12px; flex-wrap:nowrap; padding:2px 0;">
+  <div style="white-space:nowrap;"><b>FL-EDMS</b> · Document Control</div>
+  <div style="display:flex; align-items:center; gap:8px; white-space:nowrap;">
+    <span style="background:rgba(128,128,128,0.18); border-radius:999px;
+                 padding:4px 10px; font-size:0.85em;">PROD</span>
+    <span style="display:inline-flex; align-items:center; gap:8px;
+                 background:rgba(128,128,128,0.18); border-radius:999px;
+                 padding:4px 12px 4px 4px;">
+      <span style="background:#10314f; color:#fff; border-radius:50%;
+                   width:28px; height:28px; display:inline-flex;
+                   align-items:center; justify-content:center;
+                   font-size:0.8em; font-weight:600;">MW</span>
+      <span style="line-height:1.15; text-align:left;">
+        <span style="display:block; font-size:0.9em;">M. Whitfield</span>
+        <span style="display:block; font-size:0.75em; opacity:0.75;">Quality Assurance</span>
+      </span>
+    </span>
+  </div>
+</div>
+""",
     unsafe_allow_html=True,
 )
 st.divider()
