@@ -1,6 +1,6 @@
 # SOP-QA-003 — Document Control
 
-**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Quality Assurance
+**Fictitious Labs Inc.** · Version 2.0 · Effective 2026-11-22 · Owner: Quality Assurance
 
 ## 1. Purpose
 
@@ -30,7 +30,7 @@ Does not cover records retention schedules for specific record types, which are 
 
 ### 4.1 Draft documents
 
-To initiate a controlled document, the author requests a document number from Document Control, which assigns the number under the company's numbering scheme (SOPs: SOP-<department>-<number>; test methods: TM-<department>-<number>; forms: FRM-<department>-<number>). The author selects the document type and the standard format for that type, prepares the draft in FL-EDMS, and identifies the document owner and the reviewers before submitting the draft for review. Drafts are marked DRAFT in FL-EDMS and are never effective.
+To initiate a controlled document, the author requests a document number from Document Control, which assigns the number under the company's numbering scheme: policies, POL-<number>; procedures, SOP-<function>-<number>; work instructions, WI-<function>-<number>; test methods, TM-<function>-<number>; forms, FRM-<function>-<number>; specifications, SPEC-<function>-<number>; plans, PLN-<number>. Function codes are QA (Quality Assurance), QC (Quality Control), RA (Regulatory Affairs), and MF (Manufacturing); Document Control assigns a code to any further function when its first document is initiated. The Validation Master Plan was numbered VMP-001 before this scheme was established and retains that number. The author selects the document type and the standard format for that type, prepares the draft in FL-EDMS, and identifies the document owner and the reviewers before submitting the draft for review. Drafts are marked DRAFT in FL-EDMS and are never effective.
 
 For laboratory control specifications, standards, sampling plans, test procedures, and other laboratory control mechanisms, the organizational unit responsible for the activity the document governs drafts the document; laboratory control documents are drafted by the Quality Control laboratory. Quality Assurance reviews and approves these documents and any changes to them. Document required laboratory-control activities when they are performed (21 CFR § 211.160(a)). Controlled documents are created, routed, and stored in FL-EDMS, the company's controlled document repository.
 

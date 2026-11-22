@@ -24,15 +24,15 @@
       "version": "1.0"
     },
     {
-      "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (FL-EDMS administration and document numbering, QA approval with QA Manager approval of quality-system SOPs, biennial periodic review, revisions through SOP-QA-004); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
-      "effective_date": "2026-03-02",
+      "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (FL-EDMS administration and document numbering, QA approval with QA Manager approval of quality-system SOPs, biennial periodic review, revisions through SOP-QA-004); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Revision 2.0, Nov 22, 2026: section 4.1 now defines the full numbering scheme (policies POL; procedures SOP; work instructions WI; test methods TM; forms FRM; specifications SPEC; plans PLN; function codes QA, QC, RA, MF), on the document-type model in use at Veeva-based quality systems. The scheme previously named only SOP, TM, and FRM numbers, although VMP-001 and the Nov 22, 2026 additions sat outside it. Under the scheme, CCS-001 is reclassified as SOP-QA-029 and PI-001 is renumbered WI-MF-001; VMP-001 retains its established number.",
+      "effective_date": "2026-11-22",
       "file": "docs/sop-qa-003.md",
       "number": "SOP-QA-003",
       "owner": "Quality Assurance",
       "status": "Effective",
       "title": "Document Control",
       "type": "SOP",
-      "version": "1.0"
+      "version": "2.0"
     },
     {
       "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (CR numbering, QA Major/Minor classification, QA regulatory assessment and prior-approval rule, implementation verification and closure); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
@@ -310,6 +310,17 @@
       "version": "1.0"
     },
     {
+      "change_note": "Added Nov 22, 2026: SOP-QA-024 assigns Quality Assurance oversight of the contamination control strategy and lists it among retained records, but the strategy itself existed nowhere as a document. Authored directly against SOP-QA-024 and its EU GMP Annex 1 (2022) basis; section 4 requires every revision to carry each strategy element or a Quality Assurance-approved justification for its absence. Reclassified Nov 22, 2026 as SOP-QA-029 under the numbering scheme established by SOP-QA-003 v2.0; it was issued the same day as CCS-001, a plan-type number the scheme does not carry for a governed strategy document.",
+      "effective_date": "2026-03-02",
+      "file": "docs/sop-qa-029.md",
+      "number": "SOP-QA-029",
+      "owner": "Manufacturing",
+      "status": "Effective",
+      "title": "Contamination Control Strategy",
+      "type": "SOP",
+      "version": "1.0"
+    },
+    {
       "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from the public text of 21 CFR 600.80, 600.81, and 600.14, and resolved to Fictitious Labs specifics (AE numbering in FL-EDMS, same-business-day intake and complaint handoff, weekly literature monitoring, QA Manager reportability determinations, electronic submission to CBER as the biologics license holder, FDA-3486 deviation reporting, FL-EDMS reporting calendar). No Genesis topic exists for this procedure. Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
       "effective_date": "2026-03-02",
       "file": "docs/sop-ra-001.md",
@@ -420,25 +431,14 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 22, 2026: SOP-QA-024 assigns Quality Assurance oversight of the contamination control strategy and lists it among retained records, but the strategy itself existed nowhere as a document. Authored directly against SOP-QA-024 and its EU GMP Annex 1 (2022) basis; section 4 requires every revision to carry each strategy element or a Quality Assurance-approved justification for its absence.",
+      "change_note": "Added Nov 22, 2026: SOP-QA-022 checks labeling against the approved Packaging Instructions in six places and reconciles yields against their limits, but no such document existed. Authored directly against SOP-QA-022 and the consistency ledger; label fields are sourced from the batch record, and 100 percent examination and reconciliation remain governed by SOP-QA-022. Renumbered Nov 22, 2026 as WI-MF-001 under the numbering scheme established by SOP-QA-003 v2.0; it was issued the same day as PI-001.",
       "effective_date": "2026-03-02",
-      "file": "docs/ccs-001.md",
-      "number": "CCS-001",
-      "owner": "Manufacturing",
-      "status": "Effective",
-      "title": "Contamination Control Strategy",
-      "type": "Plan",
-      "version": "1.0"
-    },
-    {
-      "change_note": "Added Nov 22, 2026: SOP-QA-022 checks labeling against the approved Packaging Instructions in six places and reconciles yields against their limits, but no such document existed. Authored directly against SOP-QA-022 and the consistency ledger; label fields are sourced from the batch record, and 100 percent examination and reconciliation remain governed by SOP-QA-022.",
-      "effective_date": "2026-03-02",
-      "file": "docs/pi-001.md",
-      "number": "PI-001",
+      "file": "docs/wi-mf-001.md",
+      "number": "WI-MF-001",
       "owner": "Manufacturing",
       "status": "Effective",
       "title": "Packaging and Labeling Instructions, FL-101 Drug Substance",
-      "type": "Instruction",
+      "type": "Work Instruction",
       "version": "1.0"
     }
   ]
