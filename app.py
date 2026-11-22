@@ -91,7 +91,7 @@ def open_key(key):
 # --- Header: branding band + system bar ---
 _logo = logo_bytes()
 if _logo is not None:
-    band = st.columns([1, 2, 1])
+    band = st.columns([1, 3, 1])
     band[1].image(_logo, width="stretch")
 else:
     st.title("Fictitious Labs Inc.")
