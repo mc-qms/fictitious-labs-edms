@@ -8,7 +8,7 @@ that stay findable, change notes — because that is what it is for.
 
 ## What's inside
 
-36 controlled documents: 32 SOPs (Good Documentation Practices, Document
+40 controlled documents: 33 SOPs (Good Documentation Practices, Document
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
 quality system's backbone), a Validation Master Plan, the A280 test method
@@ -24,9 +24,14 @@ multi-agent pipeline that builds procedures from public regulations and
 guidance (ICH Q10, 21 CFR Parts 210/211, and friends), then adopted into
 the fictional company: placeholders resolved against a consistency ledger,
 citations verified against the source packet, one action per step.
-The exception is SOP-QA-027, Batch Record Content and Control, written
-directly to the same standards to close a gap the library review found:
-batch records were referenced by nine procedures but defined by none.
+The exceptions are SOP-QA-027, Batch Record Content and Control, and
+SOP-QA-028, Specification Management, written directly to the same
+standards to close gaps a library review found: batch records were
+referenced by nine procedures but defined by none, and specifications
+were applied everywhere but governed nowhere. The FL-101 specification,
+the contamination control strategy, and the packaging and labeling
+instructions were likewise authored directly, against the company's
+consistency ledger.
 
 ## Why it exists
 

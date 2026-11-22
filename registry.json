@@ -299,6 +299,17 @@
       "version": "1.0"
     },
     {
+      "change_note": "Added Nov 22, 2026 to close a gap identified in library review: specifications were applied across the library but no procedure governed how acceptance criteria are proposed, justified, approved, or revised. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027; rests on 21 CFR 211.160 and 211.165, with revisions through SOP-QA-004 and an explicit bar on revising a specification in response to a failing batch.",
+      "effective_date": "2026-03-02",
+      "file": "docs/sop-qa-028.md",
+      "number": "SOP-QA-028",
+      "owner": "Quality Assurance",
+      "status": "Effective",
+      "title": "Specification Management",
+      "type": "SOP",
+      "version": "1.0"
+    },
+    {
       "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from the public text of 21 CFR 600.80, 600.81, and 600.14, and resolved to Fictitious Labs specifics (AE numbering in FL-EDMS, same-business-day intake and complaint handoff, weekly literature monitoring, QA Manager reportability determinations, electronic submission to CBER as the biologics license holder, FDA-3486 deviation reporting, FL-EDMS reporting calendar). No Genesis topic exists for this procedure. Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
       "effective_date": "2026-03-02",
       "file": "docs/sop-ra-001.md",
@@ -387,6 +398,17 @@
       "version": "2.0"
     },
     {
+      "change_note": "Added Nov 22, 2026: the approved FL-101 drug substance specification was referenced throughout the library (named as the criteria document by SOP-QA-006 and SOP-QA-012) but existed nowhere as a document. Authored directly against the consistency ledger: the concentration criterion is 9.0-11.0 mg/mL as in TM-QC-101 v3.0; the test set matches the review coverage of SOP-QA-006 section 4.3 (identity, purity, concentration, endotoxin, bioburden); storage at -20 C +/- 5 C per SOP-QC-002; the retest period is deliberately not fixed here, being assigned under SOP-QC-002.",
+      "effective_date": "2026-03-02",
+      "file": "docs/spec-qc-101.md",
+      "number": "SPEC-QC-101",
+      "owner": "Quality Control",
+      "status": "Effective",
+      "title": "FL-101 Drug Substance Specification",
+      "type": "Specification",
+      "version": "1.0"
+    },
+    {
       "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from EU GMP Annex 15 (Principle, General, and sections 1-4), an ICH Q10 excerpt, and the company's own fixing passages (SOP-QA-016 sections 3, 4.2 item 7, and 5; SOP-QA-020 section 4.4 items 1-4; SOP-QA-026 section 4.1 items 1 and 3; the validation family's scope statements); no Genesis topic exists for a validation master plan. Three earlier Mode 1 attempts the same day stopped before drafting: source sets of ~393K, ~181K, and ~108K chars built packets over the app's ~20,000-token cap (~69K, ~27.9K, ~22.6K tokens). This run's minimal source set (~40K chars) built an 8,216-token packet (session demo-55ae363a). Resolved to Fictitious Labs specifics from the company ledger: QA Manager approval, contents per SOP-QA-016 section 4.2 item 7, and the protocol and report formats and stage-applicability criteria defined in the plan itself, as SOP-QA-020 section 4.4 assigns them to it. 11 author-input markers and 1 internal placeholder resolved.",
       "effective_date": "2026-03-02",
       "file": "docs/vmp-001.md",
@@ -395,6 +417,28 @@
       "status": "Effective",
       "title": "Validation Master Plan",
       "type": "Plan",
+      "version": "1.0"
+    },
+    {
+      "change_note": "Added Nov 22, 2026: SOP-QA-024 assigns Quality Assurance oversight of the contamination control strategy and lists it among retained records, but the strategy itself existed nowhere as a document. Authored directly against SOP-QA-024 and its EU GMP Annex 1 (2022) basis; section 4 requires every revision to carry each strategy element or a Quality Assurance-approved justification for its absence.",
+      "effective_date": "2026-03-02",
+      "file": "docs/ccs-001.md",
+      "number": "CCS-001",
+      "owner": "Manufacturing",
+      "status": "Effective",
+      "title": "Contamination Control Strategy",
+      "type": "Plan",
+      "version": "1.0"
+    },
+    {
+      "change_note": "Added Nov 22, 2026: SOP-QA-022 checks labeling against the approved Packaging Instructions in six places and reconciles yields against their limits, but no such document existed. Authored directly against SOP-QA-022 and the consistency ledger; label fields are sourced from the batch record, and 100 percent examination and reconciliation remain governed by SOP-QA-022.",
+      "effective_date": "2026-03-02",
+      "file": "docs/pi-001.md",
+      "number": "PI-001",
+      "owner": "Manufacturing",
+      "status": "Effective",
+      "title": "Packaging and Labeling Instructions, FL-101 Drug Substance",
+      "type": "Instruction",
       "version": "1.0"
     }
   ]
