@@ -1,6 +1,6 @@
 # TM-QC-101 — Protein Concentration by UV Absorbance (A280), FL-101 Drug Substance
 
-**Fictitious Labs Inc.** · Version 2.0 · Effective 2025-11-03 · **SUPERSEDED by v2.1 on 2026-09-14** · Owner: Quality Control
+**Fictitious Labs Inc.** · Version 2.0 · Effective 2025-11-03 · **SUPERSEDED by v3.0 on 2026-09-14** · Owner: Quality Control
 
 ## 1. Purpose
 

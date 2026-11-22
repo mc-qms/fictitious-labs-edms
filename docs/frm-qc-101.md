@@ -1,6 +1,6 @@
 # FRM-QC-101 — A280 Assay Worksheet (template)
 
-**Fictitious Labs Inc.** · Version 1.3 · Effective 2026-09-14 · Owner: Quality Control
+**Fictitious Labs Inc.** · Version 2.0 · Effective 2026-09-14 · Owner: Quality Control
 Controlled form for TM-QC-101. Complete in ink or in the electronic
 worksheet; corrections per SOP-QA-001.
 

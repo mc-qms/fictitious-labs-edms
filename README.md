@@ -12,7 +12,7 @@ that stay findable, change notes — because that is what it is for.
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
 quality system's backbone), a Validation Master Plan, the A280 test method
-for FL-101 in two versions (v2.1 effective, v2.0 superseded — check the
+for FL-101 in two versions (v3.0 effective, v2.0 superseded — check the
 acceptance criteria before you trust an old result), and the assay
 worksheet form.
 
