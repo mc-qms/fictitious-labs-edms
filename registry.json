@@ -288,6 +288,17 @@
       "version": "1.0"
     },
     {
+      "change_note": "Added Nov 22, 2026 to close a gap identified in library review: batch records and the Master Batch Record were referenced by nine procedures (including SOP-QA-006, SOP-QA-016, and SOP-QA-022), but their required content, format, and issuance were defined nowhere in the system. Content requirements written to 21 CFR 211.186 and 211.188; approval and issuance assigned to Quality Assurance; review and release remain under SOP-QA-006.",
+      "effective_date": "2026-03-02",
+      "file": "docs/sop-qa-027.md",
+      "number": "SOP-QA-027",
+      "owner": "Quality Assurance",
+      "status": "Effective",
+      "title": "Batch Record Content and Control",
+      "type": "SOP",
+      "version": "1.0"
+    },
+    {
       "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from the public text of 21 CFR 600.80, 600.81, and 600.14, and resolved to Fictitious Labs specifics (AE numbering in FL-EDMS, same-business-day intake and complaint handoff, weekly literature monitoring, QA Manager reportability determinations, electronic submission to CBER as the biologics license holder, FDA-3486 deviation reporting, FL-EDMS reporting calendar). No Genesis topic exists for this procedure. Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
       "effective_date": "2026-03-02",
       "file": "docs/sop-ra-001.md",
@@ -343,7 +354,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Acceptance criterion tightened from 8.5-11.5 mg/mL to 9.0-11.0 mg/mL following the FL-101 process capability review. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 → 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Acceptance criterion tightened from 8.5-11.5 mg/mL to 9.0-11.0 mg/mL following the FL-101 process capability review. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 \u2192 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2026-09-14",
       "file": "docs/tm-qc-101-v3.0.md",
       "number": "TM-QC-101",
@@ -354,7 +365,7 @@
       "version": "3.0"
     },
     {
-      "change_note": "Dilution changed from 1:5 to 1:10. Superseded by v3.0 on 2026-09-14. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 → 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Dilution changed from 1:5 to 1:10. Superseded by v3.0 on 2026-09-14. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 \u2192 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2025-11-03",
       "file": "docs/tm-qc-101-v2.0.md",
       "number": "TM-QC-101",
@@ -365,7 +376,7 @@
       "version": "2.0"
     },
     {
-      "change_note": "Aligned to TM-QC-101 v3.0. Renumbered 1.3 → 2.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Aligned to TM-QC-101 v3.0. Renumbered 1.3 \u2192 2.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2026-09-14",
       "file": "docs/frm-qc-101.md",
       "number": "FRM-QC-101",
