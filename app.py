@@ -149,6 +149,11 @@ def render_library():
         f"{len(docs)} controlled documents · {n_eff} Effective · "
         f"{n_sup} Superseded"
     )
+    st.sidebar.caption(
+        "Most of this library was drafted from public regulations with "
+        "[The Procedure Machine](https://procedure-machine.streamlit.app/), "
+        "a governed drafting pipeline."
+    )
 
     def matches(d):
         if d["type"] not in type_filter:
