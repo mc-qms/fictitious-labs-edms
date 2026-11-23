@@ -24,15 +24,15 @@
       "version": "1.0"
     },
     {
-      "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (FL-EDMS administration and document numbering, QA approval with QA Manager approval of quality-system SOPs, biennial periodic review, revisions through SOP-QA-004); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Revision 2.0, Nov 22, 2026: section 4.1 now defines the full numbering scheme (policies POL; procedures SOP; work instructions WI; test methods TM; forms FRM; specifications SPEC; plans PLN; function codes QA, QC, RA, MF), on the document-type model in use at Veeva-based quality systems. The scheme previously named only SOP, TM, and FRM numbers, although VMP-001 and the Nov 22, 2026 additions sat outside it. Under the scheme, CCS-001 is reclassified as SOP-QA-029 and PI-001 is renumbered WI-MF-001; VMP-001 retains its established number.",
-      "effective_date": "2026-11-22",
+      "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (FL-EDMS administration and document numbering, QA approval with QA Manager approval of quality-system SOPs, biennial periodic review, revisions through SOP-QA-004); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Revision 2.0, Nov 22, 2026: section 4.1 now defines the full numbering scheme (policies POL; procedures SOP; work instructions WI; test methods TM; forms FRM; specifications SPEC; plans PLN; function codes QA, QC, RA, MF), on the document-type model in use at Veeva-based quality systems. The scheme previously named only SOP, TM, and FRM numbers, although VMP-001 and the Nov 22, 2026 additions sat outside it. Under the scheme, CCS-001 is reclassified as SOP-QA-029 and PI-001 is renumbered WI-MF-001; VMP-001 retains its established number. Revision 3.0, Nov 23, 2026: the grandfathered exception for the Validation Master Plan's former number is removed from section 4.1; the plan is renumbered PLN-001 under the scheme.",
+      "effective_date": "2026-11-23",
       "file": "docs/sop-qa-003.md",
       "number": "SOP-QA-003",
       "owner": "Quality Assurance",
       "status": "Effective",
       "title": "Document Control",
       "type": "SOP",
-      "version": "2.0"
+      "version": "3.0"
     },
     {
       "change_note": "Adopted Nov 20, 2026: Procedure Machine Genesis draft resolved to Fictitious Labs specifics (CR numbering, QA Major/Minor classification, QA regulatory assessment and prior-approval rule, implementation verification and closure); Discussion Draft appendix removed. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC).",
@@ -442,10 +442,10 @@
       "version": "1.0"
     },
     {
-      "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from EU GMP Annex 15 (Principle, General, and sections 1-4), an ICH Q10 excerpt, and the company's own fixing passages (SOP-QA-016 sections 3, 4.2 item 7, and 5; SOP-QA-020 section 4.4 items 1-4; SOP-QA-026 section 4.1 items 1 and 3; the validation family's scope statements); no Genesis topic exists for a validation master plan. Three earlier Mode 1 attempts the same day stopped before drafting: source sets of ~393K, ~181K, and ~108K chars built packets over the app's ~20,000-token cap (~69K, ~27.9K, ~22.6K tokens). This run's minimal source set (~40K chars) built an 8,216-token packet (session demo-55ae363a). Resolved to Fictitious Labs specifics from the company ledger: QA Manager approval, contents per SOP-QA-016 section 4.2 item 7, and the protocol and report formats and stage-applicability criteria defined in the plan itself, as SOP-QA-020 section 4.4 assigns them to it. 11 author-input markers and 1 internal placeholder resolved.",
+      "change_note": "Adopted Nov 21, 2026: built with the Procedure Machine in established mode (Mode 1) from EU GMP Annex 15 (Principle, General, and sections 1-4), an ICH Q10 excerpt, and the company's own fixing passages (SOP-QA-016 sections 3, 4.2 item 7, and 5; SOP-QA-020 section 4.4 items 1-4; SOP-QA-026 section 4.1 items 1 and 3; the validation family's scope statements); no Genesis topic exists for a validation master plan. Three earlier Mode 1 attempts the same day stopped before drafting: source sets of ~393K, ~181K, and ~108K chars built packets over the app's ~20,000-token cap (~69K, ~27.9K, ~22.6K tokens). This run's minimal source set (~40K chars) built an 8,216-token packet (session demo-55ae363a). Resolved to Fictitious Labs specifics from the company ledger: QA Manager approval, contents per SOP-QA-016 section 4.2 item 7, and the protocol and report formats and stage-applicability criteria defined in the plan itself, as SOP-QA-020 section 4.4 assigns them to it. 11 author-input markers and 1 internal placeholder resolved. Renumbered PLN-001 on Nov 23, 2026: the plan now carries the PLN number the SOP-QA-003 scheme assigns to plans. VMP-001 was retained as a grandfathered exception when the scheme was established on Nov 22, 2026; the exception has been removed.",
       "effective_date": "2026-03-02",
-      "file": "docs/vmp-001.md",
-      "number": "VMP-001",
+      "file": "docs/pln-001.md",
+      "number": "PLN-001",
       "owner": "Quality Assurance",
       "status": "Effective",
       "title": "Validation Master Plan",

@@ -32,10 +32,10 @@ Personnel performing qualification work follow approved procedures and are suita
 ### 4.1 Plan qualification
 
 1. Plan qualification across the lifecycle of the equipment, facility, utility, or system, from definition of requirements through the end of use.
-2. Before planning, identify the applicable Validation Master Plan (VMP-001) and follow the qualification system, strategy, and formats it defines.
+2. Before planning, identify the applicable Validation Master Plan (PLN-001) and follow the qualification system, strategy, and formats it defines.
 3. Use quality risk management under SOP-QA-009, Quality Risk Management, to plan qualification activities.
 4. Reassess risks when project or operational knowledge changes, and document how the risk assessment informs the qualification.
-5. Determine which qualification stages apply to the item. The Validation Engineer, with the Equipment Owner, makes the determination against the stage-applicability criteria in VMP-001 and documents it in the qualification plan.
+5. Determine which qualification stages apply to the item. The Validation Engineer, with the Equipment Owner, makes the determination against the stage-applicability criteria in PLN-001 and documents it in the qualification plan.
 6. Use suitably trained personnel and approved procedures. Include checks that protect the integrity of qualification data.
 7. Before execution, prepare a protocol that identifies the systems, attributes, parameters, test approach, and acceptance criteria; define responsibilities and how results will be recorded and evaluated.
 8. The Validation Engineer and the Equipment Owner approve the protocol.
@@ -124,4 +124,4 @@ Qualification records, including qualification plans and protocols, execution re
 - SOP-QA-020, Calibration and Preventive Maintenance.
 - SOP-QC-001, Environmental Monitoring.
 - SOP-QC-003, Analytical Procedure Validation.
-- VMP-001, Validation Master Plan.
+- PLN-001, Validation Master Plan.

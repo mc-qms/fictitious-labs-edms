@@ -72,12 +72,12 @@ Personnel performing qualification activities must be suitably trained and follo
 1. Plan qualification across the equipment lifecycle, from initial requirements through the end of use. Use quality risk management under SOP-QA-009, Quality Risk Management, to support qualification.
 2. Document how risk assessments inform qualification activities.
 3. Whether changed knowledge requires a repeat risk assessment is determined by the Equipment Owner with the Validation Engineer and documented in the equipment record in FL-EDMS.
-4. Before planning qualification, identify and use the applicable Validation Master Plan (VMP-001). Do not proceed with qualification planning until it is available.
+4. Before planning qualification, identify and use the applicable Validation Master Plan (PLN-001). Do not proceed with qualification planning until it is available.
 5. Use it to identify the qualification system, roles and responsibilities, equipment and qualification status, change and deviation management, acceptance-criteria guidance, applicable documents, and qualification strategy, including requalification where applicable.
-6. Prepare protocols that identify critical systems, attributes, and parameters, with associated acceptance criteria, using the protocol and report formats in VMP-001.
+6. Prepare protocols that identify critical systems, attributes, and parameters, with associated acceptance criteria, using the protocol and report formats in PLN-001.
 7. Approve and authorize qualification documents as in SOP-QA-016, Process Validation: the Validation Engineer and the Equipment Owner approve the protocol, and Quality Assurance authorizes it.
 8. Use the qualification stages determined for the equipment and its qualification plan.
-9. Which stages apply is determined by the Validation Engineer with the Equipment Owner against the criteria in VMP-001, and the determination is documented in the qualification plan.
+9. Which stages apply is determined by the Validation Engineer with the Equipment Owner against the criteria in PLN-001, and the determination is documented in the qualification plan.
 
    1. **User requirements and design qualification**
       - Define equipment requirements in a user requirements specification (URS) and/or functional specification. Include essential quality requirements and address GMP risks.
@@ -132,4 +132,4 @@ Calibration, maintenance, and qualification records, including the equipment reg
 - SOP-QA-010, Handling of Deviations.
 - SOP-QA-016, Process Validation.
 - SOP-QA-026, Equipment, Facilities, Utilities, and Systems Qualification.
-- VMP-001, Validation Master Plan.
+- PLN-001, Validation Master Plan.

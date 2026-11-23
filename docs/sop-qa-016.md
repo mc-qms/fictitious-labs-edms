@@ -54,7 +54,7 @@ Does not cover cleaning validation, analytical procedure validation, or computer
 9. Document the validation strategy, responsibilities, risk assessments, acceptance-criteria approach, and any required requalification in the applicable validation plan or equivalent.
 10. Use trained personnel and approved documentation for validation work.
 11. Include manufacturing personnel in process validation activities.
-12. Before planning validation activities, identify the applicable Validation Master Plan (VMP-001).
+12. Before planning validation activities, identify the applicable Validation Master Plan (PLN-001).
 13. Use it to define the qualification and validation system, roles and responsibilities, site qualification and validation status, change and deviation management, acceptance-criteria guidance, document references, and validation strategy, including requalification where applicable.
 
 ### 4.3 Establish protocol and readiness
@@ -172,4 +172,4 @@ Validation records, including the Validation Master Plan, validation plans, prot
 - SOP-QA-021, Annual Product Quality Review.
 - SOP-QA-026, Equipment, Facilities, Utilities, and Systems Qualification.
 - SOP-QC-003, Analytical Procedure Validation.
-- VMP-001, Validation Master Plan.
+- PLN-001, Validation Master Plan.
