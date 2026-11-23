@@ -409,6 +409,28 @@
       "version": "2.0"
     },
     {
+      "number": "FRM-MF-101",
+      "title": "Master Batch Record, FL-101 Drug Substance",
+      "type": "Form",
+      "version": "2.0",
+      "status": "Effective",
+      "effective_date": "2026-08-17",
+      "owner": "Manufacturing",
+      "file": "docs/frm-mf-101-v2.0.md",
+      "change_note": "Culture pH range tightened from 6.8-7.4 to 6.9-7.3, and the sterile filtration and bulk fill step designated as requiring independent verification, following the contamination control review under SOP-QA-029. Added Nov 22, 2026 to complete the library: SOP-QA-027 governed master batch records that existed nowhere as controlled artifacts; the master is the reference artifact for the QA Simulator's batch-record scenarios."
+    },
+    {
+      "number": "FRM-MF-101",
+      "title": "Master Batch Record, FL-101 Drug Substance",
+      "type": "Form",
+      "version": "1.0",
+      "status": "Superseded",
+      "effective_date": "2026-03-02",
+      "owner": "Manufacturing",
+      "file": "docs/frm-mf-101-v1.0.md",
+      "change_note": "Initial issue of the master batch record. Superseded by v2.0 on 2026-08-17. Added Nov 22, 2026 (see the v2.0 entry)."
+    },
+    {
       "change_note": "Added Nov 22, 2026: the approved FL-101 drug substance specification was referenced throughout the library (named as the criteria document by SOP-QA-006 and SOP-QA-012) but existed nowhere as a document. Authored directly against the consistency ledger: the concentration criterion is 9.0-11.0 mg/mL as in TM-QC-101 v3.0; the test set matches the review coverage of SOP-QA-006 section 4.3 (identity, purity, concentration, endotoxin, bioburden); storage at -20 C +/- 5 C per SOP-QC-002; the retest period is deliberately not fixed here, being assigned under SOP-QC-002.",
       "effective_date": "2026-03-02",
       "file": "docs/spec-qc-101.md",

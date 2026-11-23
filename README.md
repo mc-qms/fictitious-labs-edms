@@ -8,13 +8,14 @@ that stay findable, change notes — because that is what it is for.
 
 ## What's inside
 
-40 controlled documents: 34 SOPs (Good Documentation Practices, Document
+42 controlled documents: 34 SOPs (Good Documentation Practices, Document
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
 quality system's backbone), a Validation Master Plan, the A280 test method
 for FL-101 in two versions (v3.0 effective, v2.0 superseded — check the
-acceptance criteria before you trust an old result), and the assay
-worksheet form.
+acceptance criteria before you trust an old result), the assay
+worksheet form, and the master batch record for FL-101 in two versions
+(v2.0 effective, v1.0 superseded).
 
 ## How it was made
 
@@ -32,7 +33,8 @@ procedures but defined by none, specifications were applied everywhere
 but governed nowhere, and the contamination control strategy was
 overseen but never written down. The FL-101 specification and the
 FL-101 packaging and labeling work instruction were likewise authored
-directly, against the company's consistency ledger.
+directly, against the company's consistency ledger, as was the master
+batch record for FL-101 in its two versions.
 
 ## Why it exists
 
