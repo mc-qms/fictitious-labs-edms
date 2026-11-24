@@ -76,6 +76,8 @@ Does not cover the review of completed batch records or the release, rejection, 
 5. Record the issuance in FL-EDMS, stating the batch number, the master batch record version issued, the number of pages, and the date of issue.
 6. Print the batch number and the page number, stated as page X of Y, on every page of the executed batch record.
 
+The executed batch record issued under this section is a controlled issuance and remains controlled until the completed record is archived; it is not an uncontrolled printed copy under SOP-QA-003, Document Control.
+
 ### 4.4 Complete the executed batch record
 
 1. Record each entry at the time the corresponding step is performed, following SOP-QA-001, Good Documentation Practices.

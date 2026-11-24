@@ -288,7 +288,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 22, 2026 to close a gap identified in library review: batch records and the Master Batch Record were referenced by nine procedures (including SOP-QA-006, SOP-QA-016, and SOP-QA-022), but their required content, format, and issuance were defined nowhere in the system. Content requirements written to 21 CFR 211.186 and 211.188; approval and issuance assigned to Quality Assurance; review and release remain under SOP-QA-006.",
+      "change_note": "Added Nov 22, 2026 to close a gap identified in library review: batch records and the Master Batch Record were referenced by nine procedures (including SOP-QA-006, SOP-QA-016, and SOP-QA-022), but their required content, format, and issuance were defined nowhere in the system. Content requirements written to 21 CFR 211.186 and 211.188; approval and issuance assigned to Quality Assurance; review and release remain under SOP-QA-006. Editorial clarification Nov 23, 2026: section 4.3 now states expressly that the issued executed batch record is a controlled issuance, not an uncontrolled printed copy under SOP-QA-003 — closing the seam between the two documents without changing either rule.",
       "effective_date": "2026-03-02",
       "file": "docs/sop-qa-027.md",
       "number": "SOP-QA-027",
