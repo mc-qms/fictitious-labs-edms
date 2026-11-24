@@ -8,7 +8,7 @@ that stay findable, change notes — because that is what it is for.
 
 ## What's inside
 
-42 controlled documents: 34 SOPs (Good Documentation Practices, Document
+44 controlled documents: 36 SOPs (Good Documentation Practices, Document
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
 quality system's backbone), a Validation Master Plan, the A280 test method
@@ -19,29 +19,32 @@ worksheet form, and the master batch record for FL-101 in two versions
 
 ## How it was made
 
-Every SOP in this library but one was drafted by
+Most of these documents were drafted by
 [The Procedure Machine](https://procedure-machine.streamlit.app/), a
 multi-agent pipeline that builds procedures from public regulations and
 guidance (ICH Q10, 21 CFR Parts 210/211, and friends), then adopted into
 the fictional company: placeholders resolved against a consistency ledger,
 citations verified against the source packet, one action per step.
-The exceptions are SOP-QA-027, Batch Record Content and Control,
-SOP-QA-028, Specification Management, and SOP-QA-029, Contamination
-Control Strategy, written directly to the same standards to close gaps
-a library review found: batch records were referenced by nine
-procedures but defined by none, specifications were applied everywhere
-but governed nowhere, and the contamination control strategy was
-overseen but never written down. The FL-101 specification and the
-FL-101 packaging and labeling work instruction were likewise authored
-directly, against the company's consistency ledger, as was the master
-batch record for FL-101 in its two versions.
+A few were written directly, to the same standards, to close gaps a
+library review found — procedures the rest of the library referenced but
+nobody had written. The library is maintained as one system: when a
+review finds a reference pointing at nothing, the missing document
+gets written.
 
 ## Why it exists
 
-The library is the reference world for a QA document-review training
+It began as the reference world for a QA document-review training
 simulator: reviewers check completed records against these governing
-documents, in this system, the way the job actually works. The simulator
-is a separate app, coming later.
+documents, in this system, the way the job actually works. That
+simulator is now live alongside it, as the
+[QA Review Simulator](https://fictitious-labs-review-sim.streamlit.app/).
+
+It has become a thing in its own right: an open-source starter quality
+system for a small biologics company. Most small companies build
+effectively the same quality system, starting from a blank page or a
+consultant's template library. This one is public, and MIT licensed.
+Take it as a framework to iterate from, not as drop-in controlled
+documents — every company has to make these its own before use.
 
 Fictitious Labs Inc. does not exist. Any resemblance to a real company's
 quality system is the point — and still a coincidence.

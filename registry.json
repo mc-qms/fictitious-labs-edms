@@ -376,6 +376,28 @@
       "version": "1.0"
     },
     {
+      "change_note": "Added Nov 23, 2026 to close a gap identified in library review: a retention (reserve) sample program was assumed by SOP-QA-014, Product Recall, but established nowhere. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027; rests on 21 CFR 211.170, with Quality Assurance retaining the decision whether retention samples are checked or tested in an investigation.",
+      "effective_date": "2026-03-02",
+      "file": "docs/sop-qc-005.md",
+      "number": "SOP-QC-005",
+      "owner": "Quality Control",
+      "status": "Effective",
+      "title": "Retention (Reserve) Samples",
+      "type": "SOP",
+      "version": "1.0"
+    },
+    {
+      "change_note": "Added Nov 23, 2026 to close a gap identified in library review: reference standards and general laboratory controls — sample handling, reagent preparation, and laboratory records — were governed nowhere. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027; rests on 21 CFR 211.160, 211.165, and 211.194.",
+      "effective_date": "2026-03-02",
+      "file": "docs/sop-qc-006.md",
+      "number": "SOP-QC-006",
+      "owner": "Quality Control",
+      "status": "Effective",
+      "title": "Reference Standards and Laboratory Controls",
+      "type": "SOP",
+      "version": "1.0"
+    },
+    {
       "change_note": "Acceptance criterion tightened from 8.5-11.5 mg/mL to 9.0-11.0 mg/mL following the FL-101 process capability review. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 \u2192 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2026-09-14",
       "file": "docs/tm-qc-101-v3.0.md",
