@@ -1,6 +1,6 @@
 # SOP-QA-012 — Out-of-Specification (OOS) Investigation
 
-**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Quality Assurance
+**Fictitious Labs Inc.** · Version 1.1 · Effective 2026-11-25 · Owner: Quality Assurance
 
 ## 1. Purpose
 
@@ -50,17 +50,18 @@ Does not cover out-of-specification results on stability studies' alert limits b
 5. Quality Assurance determines whether the assigned cause is sufficient to invalidate the result.
 6. Document the laboratory review, the evidence considered, and its conclusion. Do not invalidate the result unless the investigation documents a scientifically sound laboratory cause.
 
-### 4.3 Determine whether to expand the investigation
+### 4.3 Expand to a full-scale investigation
 
-1. For an out-of-specification result, if the laboratory phase does not assign a documented, scientifically sound laboratory cause, retain the result as valid.
-2. Open a full-scale investigation of the batch.
-3. Investigate whether the failure or discrepancy may affect associated batches or products.
-4. Document the investigation, its conclusions, and follow-up.
-5. Quality Assurance opens and leads the full-scale investigation, together with the Quality Control laboratory and Manufacturing.
-6. The investigation reviews the batch record and associated records, identifies potentially affected batches and products — including batches sharing materials, equipment, or a manufacturing campaign — and places affected batches on QA hold pending disposition.
-7. The full-scale investigation is completed within 30 calendar days of opening.
-8. A CAPA determination is made under SOP-QA-011, Corrective and Preventive Action (CAPA).
-9. For an out-of-trend result, Quality Assurance owns the evaluation, together with the Quality Control laboratory. A result outside its established trend limits but within specification triggers a documented evaluation of the trend, the method, and the process. A full-scale batch investigation is required only when the evaluation identifies a potential impact on product quality; otherwise the evaluation is closed with Quality Assurance approval and the result is trended.
+1. If the laboratory phase does not assign a documented, scientifically sound laboratory cause, the result is not invalidated. Quality Assurance opens a full-scale investigation of the batch within 2 business days of the laboratory phase conclusion, as a continuation of the same investigation record in FL-EDMS. Quality Assurance leads the investigation, together with the Quality Control laboratory and Manufacturing.
+2. Place the affected batch on QA hold pending disposition, together with any associated batches identified under step 4.
+3. Review the executed batch record and associated records, including: the raw material and component lots used; the equipment used and its status; in-process controls and their results; process parameters against their established ranges; and any deviations, interventions, or unusual occurrences recorded during manufacture.
+4. Identify potentially affected batches and products, including batches sharing materials, equipment, or a manufacturing campaign, and assess whether the failure or discrepancy may affect them.
+5. Interview manufacturing and laboratory personnel, and examine the manufacturing area and equipment, where the record review identifies a need.
+6. Additional laboratory testing is performed only under a testing plan that Quality Assurance approves and documents in the investigation record before testing begins. The plan states the samples to be tested, the number of retests or resamples, and how the results will be evaluated. All results obtained under the plan are reported and retained. Results are not averaged for the purpose of obtaining a compliant result, and the plan is not revised to continue testing after a failing result without documented Quality Assurance approval given before further testing.
+7. Conclude by assigning the most probable cause supported by the evidence, or by documenting that no assignable cause was identified. Where the investigation identifies a departure from an approved procedure, open a deviation record under SOP-QA-010, Handling of Deviations.
+8. The full-scale investigation is completed within 30 calendar days of opening. If that limit cannot be met, Quality Assurance documents the reason in the investigation record and the QA Manager may grant one extension of up to 15 additional calendar days.
+9. A CAPA determination is made under SOP-QA-011, Corrective and Preventive Action (CAPA).
+10. For an out-of-trend result, Quality Assurance owns the evaluation, together with the Quality Control laboratory. A result outside its established trend limits but within specification triggers a documented evaluation of the trend, the method, and the process. A full-scale batch investigation is required only when the evaluation identifies a potential impact on product quality; otherwise the evaluation is closed with Quality Assurance approval and the result is trended.
 
 ### 4.4 Conclude and act on the investigation
 
@@ -79,6 +80,7 @@ OOS investigation records (OOS-<year>-<number>), including the laboratory review
 ## 6. References
 
 - 21 CFR Part 211, Current Good Manufacturing Practice for Finished Pharmaceuticals, including §§ 211.22, 211.160, 211.165, 211.180, 211.192, and 211.194.
+- FDA Guidance for Industry, Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production (October 2006; revision 1, May 2022).
 - SOP-QA-001, Good Documentation Practices.
 - SOP-QA-010, Handling of Deviations.
 - SOP-QA-011, Corrective and Preventive Action (CAPA).
