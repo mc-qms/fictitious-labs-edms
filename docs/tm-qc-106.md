@@ -7,7 +7,7 @@
 This method determines the bioburden of FL-101 drug substance bulk by
 membrane filtration, following USP <61>, Microbiological Examination of
 Nonsterile Products: Microbial Enumeration Tests. The test is performed
-on the bulk before sterilizing filtration, as SPEC-QC-101 requires; the
+on the bulk before sterilizing filtration, as SPEC-101 requires; the
 filtration itself is performed under SOP-QA-024, Aseptic Processing and
 Media Fills.
 
@@ -61,7 +61,7 @@ The reported result is the sum of the colony counts on the two media,
 reported as CFU per 100 mL, a whole number, per SOP-QA-002. Record per
 SOP-QA-001 and SOP-QC-006.
 
-Acceptance of the reported result is per SPEC-QC-101, FL-101 Drug
+Acceptance of the reported result is per SPEC-101, FL-101 Drug
 Substance Specification. This method states no acceptance criterion
 for the product.
 
@@ -74,7 +74,7 @@ for the product.
 - SOP-QC-006, Reference Standards and Laboratory Controls
 - SOP-QC-007, Analytical Method Transfer and Compendial Verification
 - SOP-QC-011, Microbiological Media Preparation, Growth Promotion Testing, and Laboratory Autoclaves
-- SPEC-QC-101, FL-101 Drug Substance Specification
+- SPEC-101, FL-101 Drug Substance Specification
 
 ## 8. Revision history
 

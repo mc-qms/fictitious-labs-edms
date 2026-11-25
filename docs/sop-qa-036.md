@@ -58,7 +58,7 @@ Does not cover recall returns, which are handled under SOP-QA-014, Product Recal
 7. Obtain prior written approval from Quality Assurance before performing the reprocessing.
 8. Perform the approved reprocessing only after the written approval is received.
 9. Submit samples of the reprocessed material to Quality Control for testing.
-10. Confirm the reprocessed material meets SPEC-QC-101, FL-101 Drug Substance Specification.
+10. Confirm the reprocessed material meets SPEC-101, FL-101 Drug Substance Specification.
 11. Refer an out-of-specification result to SOP-QA-012, Out-of-Specification (OOS) Investigation.
 12. Submit the completed batch record for review under SOP-QA-006, Batch Record Review and Product Release.
 13. Release the batch only under SOP-QA-006, Batch Record Review and Product Release.
@@ -80,7 +80,7 @@ Does not cover recall returns, which are handled under SOP-QA-014, Product Recal
 11. Prohibit the reworking operation until the QA Manager approves the protocol in advance.
 12. Perform approved reworking only in accordance with the approved protocol.
 13. Submit samples of the reworked material to Quality Control for testing.
-14. Confirm the reworked material meets SPEC-QC-101, FL-101 Drug Substance Specification.
+14. Confirm the reworked material meets SPEC-101, FL-101 Drug Substance Specification.
 15. Submit the completed batch record for review under SOP-QA-006, Batch Record Review and Product Release.
 16. Retain a reserve sample of the reworked lot under SOP-QC-005, Retention (Reserve) Samples.
 17. Refer the need for corrective or preventive action identified during evaluation to SOP-QA-011, Corrective and Preventive Action (CAPA).
@@ -116,7 +116,7 @@ Does not cover recall returns, which are handled under SOP-QA-014, Product Recal
 2. Submit the returned product to Quality Assurance for evaluation.
 3. Complete the evaluation Quality Assurance requires.
 4. Submit samples to Quality Control for the testing Quality Assurance requires.
-5. Review the test results against SPEC-QC-101, FL-101 Drug Substance Specification.
+5. Review the test results against SPEC-101, FL-101 Drug Substance Specification.
 6. Refer an out-of-specification result to SOP-QA-012, Out-of-Specification (OOS) Investigation.
 7. Record the evaluation in FL-EDMS.
 8. Record any testing performed in FL-EDMS.
@@ -149,4 +149,4 @@ Records generated under this procedure include deviations, reworking proposals, 
 - SOP-QA-027, Batch Record Content and Control.
 - SOP-QC-005, Retention (Reserve) Samples.
 - FRM-MF-101, Master Batch Record, FL-101 Drug Substance.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.

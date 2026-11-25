@@ -31,7 +31,7 @@ Sterility is built into the process; it is not created by testing. Contamination
 ### 3.4 Sterilizing filtration
 
 - FL-101 bulk is sterilized by filtration through a 0.2 µm sterilizing-grade filter under SOP-QA-024, with filter integrity testing before and after filtration.
-- Bioburden is controlled to the limit in SPEC-QC-101 before filtration.
+- Bioburden is controlled to the limit in SPEC-101 before filtration.
 
 ### 3.5 Environmental and process monitoring
 
@@ -70,4 +70,4 @@ This strategy, its approvals, and its review records, retained in FL-EDMS under 
 - SOP-QA-024, Aseptic Processing and Media Fills.
 - SOP-QA-026, Equipment, Facilities, Utilities, and Systems Qualification.
 - SOP-QC-001, Environmental Monitoring.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.

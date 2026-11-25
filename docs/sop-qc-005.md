@@ -28,7 +28,7 @@ Does not cover stability samples, which follow SOP-QC-002, Stability Testing, or
 ### 4.1 Collect the retention sample
 
 1. Collect a sample representative of the lot, drawn from containers across the filling run.
-2. Collect at least twice the quantity required to perform every test in SPEC-QC-101, FL-101 Drug Substance Specification.
+2. Collect at least twice the quantity required to perform every test in SPEC-101, FL-101 Drug Substance Specification.
 3. Label each retention container with:
    - The lot number.
    - The container number.
@@ -84,4 +84,4 @@ The retention sample inventory in FL-EDMS; annual examination records; removal a
 - SOP-QA-013, Complaint Handling.
 - SOP-QA-014, Product Recall.
 - SOP-QC-002, Stability Testing.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.

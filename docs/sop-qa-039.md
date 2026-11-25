@@ -88,7 +88,7 @@ Does not cover batch number assignment or batch record issuance. Batch number as
 3. Assign a retest date to FL-101.
 4. Assign the retest date under SOP-QC-002, Stability Testing.
 5. Base the retest date on stability data.
-6. Do not take a fixed retest period from SPEC-QC-101, FL-101 Drug Substance Specification.
+6. Do not take a fixed retest period from SPEC-101, FL-101 Drug Substance Specification.
 7. Note that the specification deliberately does not fix the retest period.
 8. Record the retest date in FL-EDMS.
 9. Record the retest date on the lot record.
@@ -141,5 +141,5 @@ Lot number assignments, sub-lot and pooled lot records, retest date assignments,
 - SOP-QA-027, Batch Record Content and Control.
 - SOP-QC-002, Stability Testing.
 - SOP-QC-008, Raw Material Sampling, Testing, and TSE/BSE Control.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.
 - FRM-MF-101, Master Batch Record, FL-101 Drug Substance.

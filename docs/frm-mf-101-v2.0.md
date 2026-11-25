@@ -57,7 +57,7 @@ Attach a specimen of the labeling applied to the batch containers. Label content
 
 ## Batch record list
 
-The completed batch record for a batch consists of: this executed batch record; the laboratory records for every test in SPEC-QC-101, FL-101 Drug Substance Specification; the labeling control records under SOP-QA-022, Labeling and Packaging Control; and any investigation or sampling records associated with the batch.
+The completed batch record for a batch consists of: this executed batch record; the laboratory records for every test in SPEC-101, FL-101 Drug Substance Specification; the labeling control records under SOP-QA-022, Labeling and Packaging Control; and any investigation or sampling records associated with the batch.
 
 ## Completion rules
 

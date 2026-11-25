@@ -71,7 +71,7 @@ SOP-QA-001 and SOP-QC-006.
 This procedure is a compendial procedure verified under SOP-QC-007,
 Analytical Method Transfer and Compendial Verification, before use.
 
-Acceptance of the reported result is per SPEC-QC-101, FL-101 Drug
+Acceptance of the reported result is per SPEC-101, FL-101 Drug
 Substance Specification. This method states no acceptance criterion
 for the product.
 
@@ -83,7 +83,7 @@ for the product.
 - SOP-QA-002, Reporting Numerical Values
 - SOP-QC-006, Reference Standards and Laboratory Controls
 - SOP-QC-007, Analytical Method Transfer and Compendial Verification
-- SPEC-QC-101, FL-101 Drug Substance Specification
+- SPEC-101, FL-101 Drug Substance Specification
 - TM-QC-101, Protein Concentration by UV Absorbance (A280), FL-101 Drug Substance
 
 ## 8. Revision history

@@ -662,7 +662,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Acceptance criterion tightened from 8.5-11.5 mg/mL to 9.0-11.0 mg/mL following the FL-101 process capability review. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 \u2192 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Acceptance criterion tightened from 8.5-11.5 mg/mL to 9.0-11.0 mg/mL following the FL-101 process capability review. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 → 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2026-09-14",
       "file": "docs/tm-qc-101-v3.0.md",
       "number": "TM-QC-101",
@@ -673,7 +673,7 @@
       "version": "3.0"
     },
     {
-      "change_note": "Dilution changed from 1:5 to 1:10. Superseded by v3.0 on 2026-09-14. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 \u2192 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Dilution changed from 1:5 to 1:10. Superseded by v3.0 on 2026-09-14. Editorial remediation 2026-11-21: steps split to one action per step; role terms clarified (QA/QC). Renumbered 2.1 → 3.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2025-11-03",
       "file": "docs/tm-qc-101-v2.0.md",
       "number": "TM-QC-101",
@@ -684,7 +684,7 @@
       "version": "2.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the identity procedure SPEC-QC-101 v2.0 cites for FL-101 - tryptic peptide mapping against the FL-101 reference standard, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the identity procedure SPEC-101 v2.0 cites for FL-101 - tryptic peptide mapping against the FL-101 reference standard, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-102.md",
       "number": "TM-QC-102",
@@ -695,7 +695,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the size-exclusion chromatography purity procedure SPEC-QC-101 v2.0 cites for FL-101, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the size-exclusion chromatography purity procedure SPEC-101 v2.0 cites for FL-101, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-103.md",
       "number": "TM-QC-103",
@@ -706,7 +706,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the CE-SDS (reduced) purity procedure SPEC-QC-101 v2.0 cites for FL-101, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the CE-SDS (reduced) purity procedure SPEC-101 v2.0 cites for FL-101, validated under SOP-QC-003. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-104.md",
       "number": "TM-QC-104",
@@ -717,7 +717,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the bacterial endotoxins procedure SPEC-QC-101 v2.0 cites for FL-101 - kinetic chromogenic LAL per USP <85>, verified under SOP-QC-007. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the bacterial endotoxins procedure SPEC-101 v2.0 cites for FL-101 - kinetic chromogenic LAL per USP <85>, verified under SOP-QC-007. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-105.md",
       "number": "TM-QC-105",
@@ -728,7 +728,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the bioburden procedure SPEC-QC-101 v2.0 cites for FL-101 - membrane filtration per USP <61>, media growth promotion under SOP-QC-011, verified under SOP-QC-007. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the bioburden procedure SPEC-101 v2.0 cites for FL-101 - membrane filtration per USP <61>, media growth promotion under SOP-QC-011, verified under SOP-QC-007. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-106.md",
       "number": "TM-QC-106",
@@ -739,7 +739,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Added Nov 25, 2026: the pH measurement procedure SPEC-QC-101 v2.0 cites for FL-101 - potentiometric measurement per USP <791>, daily meter calibration under SOP-QC-014. The method states system suitability only; acceptance is per SPEC-QC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
+      "change_note": "Added Nov 25, 2026: the pH measurement procedure SPEC-101 v2.0 cites for FL-101 - potentiometric measurement per USP <791>, daily meter calibration under SOP-QC-014. The method states system suitability only; acceptance is per SPEC-101. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-03-02",
       "file": "docs/tm-qc-107.md",
       "number": "TM-QC-107",
@@ -750,7 +750,7 @@
       "version": "1.0"
     },
     {
-      "change_note": "Aligned to TM-QC-101 v3.0. Renumbered 1.3 \u2192 2.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
+      "change_note": "Aligned to TM-QC-101 v3.0. Renumbered 1.3 → 2.0 on 2026-11-21 under the whole-revision convention (effective revisions are whole numbers; draft revisions are decimals).",
       "effective_date": "2026-09-14",
       "file": "docs/frm-qc-101.md",
       "number": "FRM-QC-101",
@@ -785,8 +785,8 @@
     {
       "change_note": "Added Nov 22, 2026: the approved FL-101 drug substance specification was referenced throughout the library (named as the criteria document by SOP-QA-006 and SOP-QA-012) but existed nowhere as a document. Authored directly against the consistency ledger: the concentration criterion is 9.0-11.0 mg/mL as in TM-QC-101 v3.0; the test set matches the review coverage of SOP-QA-006 section 4.3 (identity, purity, concentration, endotoxin, bioburden); storage at -20 C +/- 5 C per SOP-QC-002; the retest period is deliberately not fixed here, being assigned under SOP-QC-002. Superseded by v2.0 on 2026-11-25: the Procedure column now cites TM-QC-102 through TM-QC-107 in place of the validated-procedure references; no acceptance criterion changed.",
       "effective_date": "2026-03-02",
-      "file": "docs/spec-qc-101-v1.0.md",
-      "number": "SPEC-QC-101",
+      "file": "docs/spec-101-v1.0.md",
+      "number": "SPEC-101",
       "owner": "Quality Control",
       "status": "Superseded",
       "title": "FL-101 Drug Substance Specification",
@@ -796,9 +796,9 @@
     {
       "change_note": "Revised Nov 25, 2026: the Procedure column cites TM-QC-102 through TM-QC-107 for identity, purity (size-exclusion chromatography and CE-SDS), bacterial endotoxin, bioburden, and pH, in place of the validated-procedure references to SOP-QC-003. No acceptance criterion changed; every limit is identical to v1.0. Written directly (not Procedure Machine-drafted), under the same disclosed approach as SOP-QA-027.",
       "effective_date": "2026-11-25",
-      "file": "docs/spec-qc-101-v2.0.md",
-      "number": "SPEC-QC-101",
-      "owner": "Quality Control",
+      "file": "docs/spec-101-v2.0.md",
+      "number": "SPEC-101",
+      "owner": "Quality Assurance",
       "status": "Effective",
       "title": "FL-101 Drug Substance Specification",
       "type": "Specification",

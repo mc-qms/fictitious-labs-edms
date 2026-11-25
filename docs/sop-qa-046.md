@@ -54,7 +54,7 @@ Does not cover the determination of whether a change affects a regulatory filing
 5. Regulatory Affairs reviews FDA publications monthly.
 6. Regulatory Affairs reviews ICH publications monthly.
 7. Regulatory Affairs identifies items that are relevant to Fictitious Labs Inc. methods, specifications, or procedures.
-8. Regulatory Affairs identifies items that are relevant to SPEC-QC-101, FL-101 Drug Substance Specification.
+8. Regulatory Affairs identifies items that are relevant to SPEC-101, FL-101 Drug Substance Specification.
 9. Regulatory Affairs retains the public proposal and notice documents for each relevant item.
 10. Regulatory Affairs cites USP chapter numbers and titles only where a citation is needed.
 11. Regulatory Affairs does not reproduce USP text in any Fictitious Labs document or assessment.
@@ -115,4 +115,4 @@ The compendial surveillance log is maintained in FL-EDMS and records each releva
 - SOP-QA-028, Specification Management
 - SOP-QC-003, Analytical Procedure Validation
 - SOP-QC-007, Analytical Method Transfer and Compendial Verification
-- SPEC-QC-101, FL-101 Drug Substance Specification
+- SPEC-101, FL-101 Drug Substance Specification

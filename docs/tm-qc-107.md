@@ -55,7 +55,7 @@ decimal places per SOP-QA-002. Per SOP-QA-002, a value read from
 an instrument display is transcribed exactly as displayed.
 Record per SOP-QA-001 and SOP-QC-006.
 
-Acceptance of the reported result is per SPEC-QC-101, FL-101
+Acceptance of the reported result is per SPEC-101, FL-101
 Drug Substance Specification. This method states no acceptance
 criterion for the product.
 
@@ -66,7 +66,7 @@ criterion for the product.
 - SOP-QA-002, Reporting Numerical Values
 - SOP-QC-006, Reference Standards and Laboratory Controls
 - SOP-QC-014, Bench Instrument Operation and Daily Checks
-- SPEC-QC-101, FL-101 Drug Substance Specification
+- SPEC-101, FL-101 Drug Substance Specification
 
 ## 8. Revision history
 

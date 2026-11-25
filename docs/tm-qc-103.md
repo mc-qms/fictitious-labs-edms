@@ -57,7 +57,7 @@ reported to one decimal place per SOP-QA-002. Cite the reference
 standard identifier in the test record per SOP-QC-006. Record per
 SOP-QA-001.
 
-Acceptance of the reported result is per SPEC-QC-101, FL-101 Drug
+Acceptance of the reported result is per SPEC-101, FL-101 Drug
 Substance Specification. This method states no acceptance criterion
 for the product.
 
@@ -67,7 +67,7 @@ for the product.
 - SOP-QA-002, Reporting Numerical Values
 - SOP-QC-003, Analytical Procedure Validation
 - SOP-QC-006, Reference Standards and Laboratory Controls
-- SPEC-QC-101, FL-101 Drug Substance Specification
+- SPEC-101, FL-101 Drug Substance Specification
 - ICH Q6B, Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products
 
 ## 8. Revision history

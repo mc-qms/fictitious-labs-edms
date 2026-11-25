@@ -144,4 +144,4 @@ Sampling records, test records, material release records, written justifications
 - SOP-QC-003, Analytical Procedure Validation.
 - SOP-QC-006, Reference Standards and Laboratory Controls.
 - SOP-QC-007, Analytical Method Transfer and Compendial Verification.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.

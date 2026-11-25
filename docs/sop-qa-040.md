@@ -100,7 +100,7 @@ Does not cover analytical procedure transfer. Analytical procedure transfer is g
 8. Assess comparability under the approved comparability protocol.
 9. Follow ICH Q5E principles for the comparability assessment.
 10. Assess analytical comparability first.
-11. Assess analytical comparability against SPEC-QC-101, FL-101 Drug Substance Specification.
+11. Assess analytical comparability against SPEC-101, FL-101 Drug Substance Specification.
 12. Assess analytical comparability against the characterization data.
 13. Direct the analytical comparability studies through the Study Director.
 14. Record the analytical comparability results.
@@ -143,4 +143,4 @@ Records generated under this procedure include approved transfer protocols, tran
 - SOP-QA-021, Annual Product Quality Review.
 - SOP-QC-003, Analytical Procedure Validation.
 - SOP-QC-007, Analytical Method Transfer and Compendial Verification.
-- SPEC-QC-101, FL-101 Drug Substance Specification.
+- SPEC-101, FL-101 Drug Substance Specification.
