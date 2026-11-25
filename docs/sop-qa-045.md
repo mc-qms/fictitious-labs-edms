@@ -10,7 +10,7 @@ This procedure is the operational companion to the policy in SOP-QA-018, Compute
 
 Applies to computerized systems recorded in the system inventory in FL-EDMS at Fictitious Labs Inc., a US-based biologics organization manufacturing monoclonal antibody drug substance in the United States, in the following functions: Quality Assurance, Document Control. It also applies in the functions that own systems, where the System Owner for each system carries out the steps assigned to that role in this procedure.
 
-Does not cover system validation, criticality categorization, or the policy requirements themselves, which are governed by SOP-QA-018, Computer System Validation and Data Integrity; this procedure sets the operating cadence and mechanics only. Downtime working is governed by WI-QA-001, Electronic System Downtime and Paper Backup.
+Does not cover system validation, criticality categorization, or the policy requirements themselves, which are governed by SOP-QA-018, Computer System Validation and Data Integrity; this procedure sets the operating cadence and mechanics only. Downtime working is governed by SOP-QA-047, Electronic System Downtime and Paper Backup.
 
 ## 3. Responsibilities
 
@@ -122,4 +122,4 @@ Records created under this procedure include documented access requests and appr
 - SOP-QA-010, Handling of Deviations.
 - SOP-QA-011, Corrective and Preventive Action (CAPA).
 - SOP-QA-018, Computer System Validation and Data Integrity.
-- WI-QA-001, Electronic System Downtime and Paper Backup.
+- SOP-QA-047, Electronic System Downtime and Paper Backup.
