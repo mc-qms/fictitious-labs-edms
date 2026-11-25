@@ -1,6 +1,6 @@
 # SOP-QA-044 — GMP Spare Parts Control and Post-Maintenance Return-to-Service
 
-**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Quality Assurance
+**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Engineering and Maintenance
 
 ## 1. Purpose
 

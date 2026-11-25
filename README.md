@@ -8,7 +8,7 @@ that stay findable, change notes — because that is what it is for.
 
 ## What's inside
 
-78 controlled documents: 66 SOPs (Good Documentation Practices, Document
+79 controlled documents: 67 SOPs (Good Documentation Practices, Document
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
 quality system's backbone), 5 work instructions, a Validation Master Plan, the A280 test method

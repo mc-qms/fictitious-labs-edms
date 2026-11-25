@@ -64,9 +64,9 @@ It sits under SOP-QA-001, Good Documentation Practices.
 
 7. Complete the investigation before the record is approved.
 
-## 5. Control of this instruction
+## 5. Control of this procedure
 
-1. Quality Assurance and the Quality Assurance Supervisor approve this instruction and each revision of it.
+1. Quality Assurance and the Quality Assurance Supervisor approve this procedure and each revision of it.
 
 2. Make each revision through SOP-QA-004, Change Control.
 

@@ -1,6 +1,6 @@
 # SOP-QC-013 — Freezer Alarm and Power Outage Response
 
-**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Quality Control
+**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Engineering and Maintenance
 
 ## 1. Purpose
 
@@ -13,7 +13,7 @@ Provide the response to a building monitoring system alarm for storage units hol
 3. Confirm whether the unit is an LN2 freezer.
 4. Confirm whether the unit is a stability chamber.
 5. Confirm whether the unit is a −20 °C ± 5 °C storage unit.
-6. Identify the on-call responder named on the roster maintained by Quality Control.
+6. Identify the on-call responder named on the roster maintained by Engineering and Maintenance.
 7. Acknowledge the alarm within 30 minutes.
 8. Record the acknowledgement in FL-EDMS.
 9. Check the temperature of the alarmed unit.
@@ -56,9 +56,9 @@ Provide the response to a building monitoring system alarm for storage units hol
 19. Notify Quality Assurance the same business day.
 20. Assess the excursion under SOP-QA-010, Handling of Deviations.
 
-## 4. Control of this instruction
+## 4. Control of this procedure
 
-1. Quality Assurance and the Quality Control Supervisor approve this instruction and each revision of it.
+1. Engineering and Maintenance and Quality Assurance approve this procedure and each revision of it.
 2. Make each revision through SOP-QA-004, Change Control.
 
 ## References

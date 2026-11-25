@@ -65,9 +65,9 @@ State the routine checks for balances, pH meters, pipettes, and biological safet
 11. Record the disinfection in accordance with SOP-QA-001, Good Documentation Practices.
 12. Record the agent used in the instrument record in FL-EDMS.
 
-## 6. Control of this instruction
+## 6. Control of this procedure
 
-1. Quality Assurance and the Quality Control Supervisor approve this instruction and each revision of it.
+1. Quality Assurance and the Quality Control Supervisor approve this procedure and each revision of it.
 2. Make each revision through SOP-QA-004, Change Control.
 
 ## References

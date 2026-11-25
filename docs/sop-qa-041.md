@@ -1,6 +1,6 @@
 # SOP-QA-041 — Sterilizing-Grade Filter Integrity Testing
 
-**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Quality Assurance
+**Fictitious Labs Inc.** · Version 1.0 · Effective 2026-03-02 · Owner: Manufacturing
 
 ## 1. Purpose
 

@@ -62,9 +62,9 @@ It sits under SOP-QA-005, Training and Qualification, SOP-QA-018, Computer Syste
 
 15. Date the explanatory note.
 
-## 4. Control of this instruction
+## 4. Control of this procedure
 
-1. Quality Assurance and the Quality Assurance Supervisor approve this instruction and each revision of it.
+1. Quality Assurance and the Quality Assurance Supervisor approve this procedure and each revision of it.
 
 2. Make each revision through SOP-QA-004, Change Control.
 

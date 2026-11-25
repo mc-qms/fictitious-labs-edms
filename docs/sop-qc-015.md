@@ -4,8 +4,8 @@
 
 ## 1. Purpose
 
-This instruction describes how Quality Control accessions QC samples, controls freeze-thaw cycles for FL-101 aliquots, and purges expired reagents and buffers, under SOP-QC-006, Reference Standards and Laboratory Controls.
-This instruction does not govern retention samples, which are governed by SOP-QC-005, Retention (Reserve) Samples, or stability samples, which are governed by SOP-QC-002, Stability Testing.
+This procedure describes how Quality Control accessions QC samples, controls freeze-thaw cycles for FL-101 aliquots, and purges expired reagents and buffers, under SOP-QC-006, Reference Standards and Laboratory Controls.
+This procedure does not govern retention samples, which are governed by SOP-QC-005, Retention (Reserve) Samples, or stability samples, which are governed by SOP-QC-002, Stability Testing.
 
 ## 2. Accession a sample
 
@@ -57,9 +57,9 @@ This instruction does not govern retention samples, which are governed by SOP-QC
 11. Complete each FL-EDMS record following SOP-QA-001, Good Documentation Practices.
 12. Handle a reagent problem that may affect results under SOP-QA-010, Handling of Deviations.
 
-## 5. Control of this instruction
+## 5. Control of this procedure
 
-1. Quality Assurance and the Quality Control Supervisor approve this instruction and each revision of it.
+1. Quality Assurance and the Quality Control Supervisor approve this procedure and each revision of it.
 2. Make each revision through SOP-QA-004, Change Control.
 
 ## References

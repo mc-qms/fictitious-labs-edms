@@ -4,8 +4,8 @@
 
 ## 1. Purpose
 
-This instruction describes how to issue downtime forms, record on paper when FL-EDMS or another GMP system is unavailable, and transcribe and reconcile those records after the system is restored.
-This instruction sits under SOP-QA-018, Computer System Validation and Data Integrity, and SOP-QA-003, Document Control.
+This procedure describes how to issue downtime forms, record on paper when FL-EDMS or another GMP system is unavailable, and transcribe and reconcile those records after the system is restored.
+This procedure sits under SOP-QA-018, Computer System Validation and Data Integrity, and SOP-QA-003, Document Control.
 
 ## 2. Issue downtime forms
 
@@ -56,9 +56,9 @@ This instruction sits under SOP-QA-018, Computer System Validation and Data Inte
 14. Handle a downtime that caused a data loss under SOP-QA-010, Handling of Deviations.
 15. Handle a downtime that caused a missed GMP record under SOP-QA-010, Handling of Deviations.
 
-## 5. Control of this instruction
+## 5. Control of this procedure
 
-1. Quality Assurance and the Quality Assurance Supervisor approve this instruction and each revision of it.
+1. Quality Assurance and the Quality Assurance Supervisor approve this procedure and each revision of it.
 2. Make each revision through SOP-QA-004, Change Control.
 
 ## References
