@@ -8,14 +8,18 @@ that stay findable, change notes — because that is what it is for.
 
 ## What's inside
 
-79 controlled documents: 67 SOPs (Good Documentation Practices, Document
+86 controlled documents: 67 SOPs (Good Documentation Practices, Document
 Control, Change Control, Deviations, CAPA, Batch Record Review and Product
 Release, Computerized Systems & Data Integrity, and the rest of a small
-quality system's backbone), 5 work instructions, a Validation Master Plan, the A280 test method
-for FL-101 in two versions (v3.0 effective, v2.0 superseded — check the
-acceptance criteria before you trust an old result), the assay
-worksheet form, and the master batch record for FL-101 in two versions
-(v2.0 effective, v1.0 superseded).
+quality system's backbone), 5 work instructions, a Validation Master Plan,
+the FL-101 drug substance specification in two versions (v2.0 effective,
+v1.0 superseded), and a test method set covering every test in that
+specification: the A280 test method in two versions (v3.0 effective, v2.0
+superseded — check the acceptance criteria before you trust an old
+result), plus peptide mapping, size-exclusion chromatography, CE-SDS,
+bacterial endotoxins, bioburden, and pH. Also the assay worksheet form,
+and the master batch record for FL-101 in two versions (v2.0 effective,
+v1.0 superseded).
 
 ## How it was made
 
